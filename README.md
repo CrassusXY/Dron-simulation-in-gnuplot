@@ -6,4 +6,4 @@ My task was to create a simple 3D library based on [gnuplot](http://www.gnuplot.
 
 ## Running the program
 To run this program you need to install gnuplot.
-After cloning the repository simply run ` make ` command. Later you can run the program using `./DragonFly.out'.
+After cloning the repository run ` make ` command. Later you can run the program using `./DragonFly.out'.
